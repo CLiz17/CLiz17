@@ -1,7 +1,7 @@
 <h2 align="center">Hey :v:</h2>  
 
 <h3 align="center">I'm <a href="https://cliz17.github.io/ChaitanyaLiz_Portfolio.github.io/">Chaitanya Liz :blush:</a>, 19 y/o JS Developer</h3> 
-<h4 align="center">Freshman doing Bachelor:student: Web Development(React.js) Intern @Sketchmonk. I like to make a break things in system:grin:<br/>Passionate about Cybersecurity:technologist: and Deeplearning:robot:</h4> 
+<h4 align="center">Freshman doing Bachelors:student: Web Development(React.js) Intern @Sketchmonk. I like to make a break things in system:grin:<br/>Passionate about Cybersecurity:technologist: and Deeplearning:robot:</h4> 
 
 <p align="center">
       <a href="https://twitter.com/LizChaitanya" target="_blank">
