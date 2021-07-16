@@ -1,7 +1,7 @@
 <h2 align="center">Hey there!:v:</h2>  
 
-<h3 align="center">I'm <a href="https://cliz17.github.io/ChaitanyaLiz_Portfolio.github.io/">Chaitanya Liz :blush:</a>, JS Developer</h3> 
-<h4 align="center">Freshman doing Bachelors:student: Web Development(React.js) Intern @Sketchmonk. I like to make a break things in system:grin:<br/>Passionate about Cybersecurity:technologist: and Deeplearning:robot:</h4> 
+<h3 align="center">I'm <a href="https://cliz17.github.io/ChaitanyaLiz_Portfolio.github.io/">Chaitanya Liz :blush:</a>, a usual programmer and an enthusiastic developer</h3> 
+<h3 align="center">Freshman doing Bachelors:student:<br/>Im into UX Designing, Web Dev in React, ocassional coding in C and building with new ideas in py.<br/> I like trying new things, thus making and breaking stuff in the system:grin:<br/>Passionate about Cybersecurity:technologist: and Deeplearning:robot:</h3> 
 
 <p align="center">
       <a href="https://twitter.com/LizChaitanya" target="_blank">
@@ -15,7 +15,7 @@
     </a>
 <br/>
 <br/>  
-<h4 align="center">I tune in to learn something new every day and try to deploy it in real life projects! <br/> With <a href="https://open.spotify.com/playlist/0eh5lErReQQqzPXjPt9xMo?si=10997f2c43894da1">:headphones:</a> all the time I code, Vibing with the Music!</h4>   
+<h3 align="center">I tune-in to learn something new every day and try to deploy it in real life projects! <br/> With <a href="https://open.spotify.com/playlist/0eh5lErReQQqzPXjPt9xMo?si=10997f2c43894da1">:headphones:</a> all the time I code, Vibing with the Music!</h3>   
 
 <a align="center" href="https://github.com/CLiz17?tab=repositories">
     <p align="center">
