@@ -25,4 +25,4 @@
   
 ---
 <h4 align="center">📫 How to reach me?</h4>
-  <h6 align="center">You may follow me on <a href="https://www.linkedin.com/in/chaitanya-liz-r-t-9471791b5/">LinkedIn</a> or on <a href="https://twitter.com/LizChaitanya">Twitter</a>.<br/>or send me mail at <a href="https://mail.google.com/mail/u/0/#inbox">liz362002@gmail.com</a> <br/> You can even create an issue <a href="https://github.com/CLiz17/CLiz17/issues/new">here</a>!</h6>
+  <h6 align="center">You may follow me on <a href="https://www.linkedin.com/in/chaitanya-liz-r-t-9471791b5/">LinkedIn</a> or on <a href="https://twitter.com/LizChaitanya">Twitter</a>.<br/>or send me mail at <a href="mailto:liz362002@gmail.com">liz362002@gmail.com</a> <br/> You can even create an issue <a href="https://github.com/CLiz17/CLiz17/issues/new">here</a>!</h6>
