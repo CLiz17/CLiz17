@@ -7,7 +7,7 @@
       <a href="https://twitter.com/LizChaitanya" target="_blank">
       <img height="25"  src="https://raw.githubusercontent.com/CLiz17/icons/7ba8423bdf768b2d22c85238fc7715bbb8157dd2/twitter.svg" />
   </a>&nbsp;&nbsp;
-    <a href="https://www.instagram.com/liz_starwars/" target="_blank">
+    <a href="https://www.instagram.com/liz_chaitanya/" target="_blank">
       <img height="25" src="https://raw.githubusercontent.com/CLiz17/icons/5d61fd83b61356a4c558483f5e248f5e8bc16821/instagram.svg" />
     </a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/chaitanya-liz-r-t-9471791b5/" target="_blank">
