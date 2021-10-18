@@ -4,7 +4,7 @@
 <h3 align="center">Freshman doing Bachelors:student:<br/>Passionate about Cybersecurity and an aspiring learner of System, Network and Security:technologist:<br/> ocassional coding in C and building with new ideas in py.<br/> I like trying new things, thus making and breaking stuff in the system:grin:<br/>I also do UX Designing and Web Dev in React. Tried driving into Deeplearning:robot:</h3> 
 
 <p align="center">
-      <a href="https://twitter.com/LizChaitanya" target="_blank">
+      <a href="https://twitter.com/liz_chaitanya" target="_blank">
       <img height="25"  src="https://raw.githubusercontent.com/CLiz17/icons/7ba8423bdf768b2d22c85238fc7715bbb8157dd2/twitter.svg" />
   </a>&nbsp;&nbsp;
     <a href="https://www.instagram.com/liz_chaitanya/" target="_blank">
