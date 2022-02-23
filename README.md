@@ -5,13 +5,13 @@
 
 <p align="center">
       <a href="https://twitter.com/liz_chaitanya" target="_blank">
-            <img height="25"  src="https://raw.githubusercontent.com/CLiz17/icons/7ba8423bdf768b2d22c85238fc7715bbb8157dd2/twitter.svg" />
+            <img height="25"  src="/icons/twitter.svg"/>
       </a>&nbsp;&nbsp;
       <a href="https://www.instagram.com/liz_chaitanya/" target="_blank">
-            <img height="25" src="https://raw.githubusercontent.com/CLiz17/icons/5d61fd83b61356a4c558483f5e248f5e8bc16821/instagram.svg" />
+            <img height="25" src="/icons/instagram.svg"/>
       </a>&nbsp;&nbsp;
       <a href="https://www.linkedin.com/in/lizchaitanya/" target="_blank">
-            <img height="25" src="https://raw.githubusercontent.com/CLiz17/icons/7ba8423bdf768b2d22c85238fc7715bbb8157dd2/linkedin.svg" />
+            <img height="25" src="/icons/linkedin.svg"/>
       </a>
 </p>
 
