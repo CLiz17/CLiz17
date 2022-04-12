@@ -1,4 +1,4 @@
-<h2 align="center">Hey, I'm <a href="https://cliz17.github.io/ChaitanyaLiz_Portfolio.github.io/">Chaitanya Liz</a></h2>  
+<h2 align="center">Hey, I'm <a href="https://chaitanyalizrt.me/">Chaitanya Liz</a></h2>  
 
 <h3 align="center">Web Developer | Security Tester</h3>
 <h5 align="center">....also a<br/>Pianist and a Portrait Artist</h5> 
