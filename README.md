@@ -4,10 +4,10 @@
 <h5 align="center">....also a<br/>Pianist and a Portrait Artist</h5> 
 
 <p align="center">
-      <a href="https://twitter.com/liz_chaitanya" target="_blank">
+      <a href="https://twitter.com/lizchaitanya" target="_blank">
             <img height="25"  src="/icons/twitter.svg"/>
       </a>&nbsp;&nbsp;
-      <a href="https://www.instagram.com/liz_chaitanya/" target="_blank">
+      <a href="https://www.instagram.com/lizchaitanya/" target="_blank">
             <img height="25" src="/icons/instagram.svg"/>
       </a>&nbsp;&nbsp;
       <a href="https://www.linkedin.com/in/lizchaitanya/" target="_blank">
