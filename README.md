@@ -5,13 +5,13 @@ Infrastructure · Automation · Backend · Hardware
 
 ### ⚙️ Stack
 
-`Azure` `Azure DevOps` `Terraform` `Docker` `Kubernetes`  
-`Python` `Prometheus` `Grafana` `GraphQL` `OpenCV` `TensorFlow`  
-`FPGA` `Verilog`
+`Azure` `Terraform` `Docker` `Kubernetes`  
+`Python` `Prometheus` `Grafana` `OpenCV` `TensorFlow`  
+`Arduino`
 
 ### 🚀 Now
 
-Kubernetes · SRE · Platform Engineering · Cloud Infrastructure
+Kubernetes · Cloud Infrastructure
 
 ### 🔧 Building
 
@@ -19,4 +19,4 @@ Kubernetes · SRE · Platform Engineering · Cloud Infrastructure
 
 ### 🎹 Beyond Code
 
-Music · Piano · Drums · Painting
+Piano · Drums · Painting · Swimming
